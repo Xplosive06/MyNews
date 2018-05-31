@@ -19,4 +19,10 @@
         <item name="android:textSize">21sp</item>
     </style>
 
+    <style name="Theme.App.BaseTest" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorControlNormal">@color/colorPrimary</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+    </style>
+
 </resources>
